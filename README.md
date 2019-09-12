@@ -2,6 +2,8 @@
 
 The community has created some [awesome icons](https://github.com/kubernetes/community/tree/master/icons) for many of the components and resources in Kubernetes. These require a little extra massage to work natively on the web as icons.
 
+![example](img/example.png)
+
 ## Usage
 
 1. Host `k8s.svg` somewhere.
